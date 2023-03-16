@@ -21,7 +21,7 @@ Je suis passionné de serveurs et codeur dans mon temps libre
 
 🧠 J'apprend actuellement le Visual Basic
 
-📫 Vous pouvez me retrouver sur discord : ZipName#8365
+📫 Vous pouvez me retrouver sur discord : ZipName#8006
 
 
 ## 🔗 Liens

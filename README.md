@@ -12,16 +12,14 @@ Je suis passionné de serveurs et codeur dans mon temps libre
 ## Features
 
 - Flat UI
-- Code organisé
 - Facile d'utilisation (pas sur tout les projets)
 
 
 ## Ce que je fais actuellement
-👩‍💻 Je travaille actuellement sur mon service de VOD "Hessflix"
 
 🧠 J'apprend actuellement le Visual Basic
 
-📫 Vous pouvez me retrouver sur discord : ZipName#8006
+📫 Vous pouvez me retrouver sur discord : zipname
 
 
 ## 🔗 Liens

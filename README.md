@@ -1,29 +1,27 @@
+# 👋 Bonjour, je suis Fabien Millet
 
-# Fabien MILLET
+🎓 Étudiant en BTS SIO (Services Informatiques aux Organisations)  
+💼 Passionné par le réseau, le développement web, et les projets open-source  
 
-Créateur de projets, développeur et streamer sur twitch.
+## 🔧 Stack principale
+- Langages : Visual Basic, C++, Javascript, Dart (Flutter)
+- Technologies : Linux, Git, Docker, Flutter, OpenCore, Proxmox
+- Autres : Web radio, projets collaboratifs, réseau, homelab
 
-## 🚀 A Propos
-Je suis passionné de serveurs et codeur dans mon temps libre
+## 📌 Projets récents
+- [StellarFM](https://github.com/fabienmillet/stellarfm-player) — Webradio en ligne avec interface multiplateforme
+- Setup [Hackintosh i5-11600K + RX 5700 XT](https://github.com/fabienmillet/Hackintosh-EFI-i5-11600K-RX5700XT)
+- [2c2t.dev](https://2c2t.dev/) — Projet d’expérimentation collaboratif avec [Hulkhogan6262](https://github.com/HulkHogan6262)
 
+## 📊 Statistiques GitHub
 
-## 🛠 Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZipName80)](https://github.com/anuraghazra/github-readme-stats)
-## Features
+![Fabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabienmillet&show_icons=true&theme=tokyonight&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabienmillet&layout=compact&theme=tokyonight)
 
-- Flat UI
-- Facile d'utilisation (pas sur tout les projets)
+## 🌐 Me retrouver en ligne
+- [LinkedIn](https://www.linkedin.com/in/fmillet/)
+- 📧 Contact : contact@zipname.fr
 
+---
 
-## Ce que je fais actuellement
-
-🧠 J'apprend actuellement le Visual Basic
-
-📫 Vous pouvez me retrouver sur discord : zipname
-
-
-## 🔗 Liens
-[![website](https://img.shields.io/badge/website-000?style=for-the-badge&logo=WordPress&logoColor=white)](https://zipname.fr/)
-[![discord](https://img.shields.io/badge/discord-3352ff?style=for-the-badge&logo=discord&logoColor=white)](about:blank)
-[![twitch](https://img.shields.io/badge/Twitch-8d33ff?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zipname_)
-
+🧠 *Toujours en train d’apprendre, d’expérimenter, et de partager.*

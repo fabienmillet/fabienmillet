@@ -9,7 +9,7 @@
 - Autres : Web radio, projets collaboratifs, réseau, homelab
 
 ## 📌 Projets récents
-- [StellarFM](https://github.com/fabienmillet/stellarfm-player) — Webradio en ligne avec interface multiplateforme
+- [ZEvent-Streamlink](https://github.com/fabienmillet/zevent-streamlink) — Multiview Twitch basé sur Streamlink (m3u, intégration OBS)
 - Setup [Hackintosh i5-11600K + RX 5700 XT](https://github.com/fabienmillet/Hackintosh-EFI-i5-11600K-RX5700XT)
 - [2c2t.dev](https://2c2t.dev/) — Projet d’expérimentation collaboratif avec [Hulkhogan6262](https://github.com/HulkHogan6262)
 

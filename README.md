@@ -22,7 +22,7 @@
 ## 📌 Projets
 
 - 🌐 **[2c2t.dev](https://2c2t.dev/)** - Projet d'expérimentation collaboratif avec [@HulkHogan6262](https://github.com/HulkHogan6262) & [@Lexdrane](https://github.com/Lexdrane)
-- 🔗 **ZLink** - Client Windows pour suivre le ZEvent (Python) *(coming soon)*
+- 🔗 **[ZLink](https://github.com/fabienmillet/ZLink)** - Client Windows/Mac/Linux pour suivre le ZEvent (Python)
 - 🕹️ **[WiiFin](https://wiif.in)** - Client Jellyfin homebrew pour Wii
 - 🎮 **[br3ach.io](https://br3ach.io)** - Jeu de hacking multijoueur avec [@GzaGzou](https://github.com/GzaGzou) (Node.js / Socket.io / Prisma)
 - 📡 **[StellarFM](https://stellarfm.fr)** - Webradio AzuraCast collaboratif
